@@ -1,6 +1,6 @@
-# Spring Boot Rest with Swagger and H2 Database
+# Spring Boot Rest with Spring Security, Swagger and H2 Database
 
-This project is using Spring Boot 2.3.1.RELEASE, Swagger UI 2.9.2 and H2 Database 1.4.200 
+This project is using Spring Boot 2.3.1.RELEASE, Spring Security, Swagger UI 2.9.2 and H2 Database 1.4.200 
 
 ## Getting Started
 
